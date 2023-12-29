@@ -51,7 +51,7 @@ class SelectedSystem(Enum):
 class DatabaseAnalysis(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle(_("University of Copenhagen - PRKU System Analysis"))
+        self.setWindowTitle(_("University of Copenhagen - System Analysis"))
 
         layout = QVBoxLayout()
         self.comboBox = QComboBox()
