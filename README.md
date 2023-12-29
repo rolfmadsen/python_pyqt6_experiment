@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for your PyQt project. You can adjust it to fit the specific details and requirements of your application.
-
----
-
 # Database Analysis Tool
 
 ## Overview
