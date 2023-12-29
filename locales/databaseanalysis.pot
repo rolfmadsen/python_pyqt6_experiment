@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 12:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.py:53
+msgid "System 1"
+msgstr ""
+
+#: main.py:54
+msgid "System 2"
+msgstr ""
+
+#: main.py:55
+msgid "System 3"
+msgstr ""
+
+#: main.py:60
+msgid "University of Copenhagen - PRKU System Analysis"
+msgstr ""
+
+#: main.py:69
+msgid "System landscape of all system relations"
+msgstr ""
+
+#: main.py:70
+msgid "System landscape of systems with relations to the selected system"
+msgstr ""
+
+#: main.py:71
+msgid ""
+"Relationships between objects in systems referring to objects and their "
+"column names in the selected system"
+msgstr ""
+
+#: main.py:77
+msgid "Submit"
+msgstr ""
+
+#: main.py:88
+msgid "Please select at least one option for data processing and output"
+msgstr ""
+
+#: main.py:89
+msgid "Selection Required"
+msgstr ""
