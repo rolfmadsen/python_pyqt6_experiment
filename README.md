@@ -2,7 +2,7 @@
 
 ## Overview
 
-This PyQt application, "Database Analysis Tool," is designed for the University of Copenhagen's PRKU System Analysis. It allows users to select specific systems and perform data processing tasks related to system relationships and object interactions.
+This PyQt application, "Database Analysis Tool," is designed for System Analysis. It allows users to select specific systems and perform data processing tasks related to system relationships and object interactions.
 
 ## Features
 
